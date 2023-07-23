@@ -168,7 +168,7 @@ void countAlgorithm(int* arr, int size, int algrthm, long long& count_compare)
 	}
 }
 
-//Output on commandline
+//Output on command line
 void output(int output_type, double runtime, long long count_compare)
 {
 	switch (output_type) {
